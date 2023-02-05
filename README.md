@@ -18,10 +18,9 @@
     <td><img src="https://user-images.githubusercontent.com/69725753/216847834-87b2dd2a-945e-432e-81a7-c055afb9fa20.png" width=270 height=480></td>
   </tr>
     <tr>
+     <td>You can search by typing your keyword. You must enter a minimum of 2 characters.</td>
      <td>You can view the details of the movie you want. Details of the movie will be displayed.</td>
      <td>You can enlarge the movie poster by tapping on it.</td>
-     <td>You can search by typing your keyword. You must enter a minimum of 2 characters.</td>
-     
      
   </tr>
   <tr>
